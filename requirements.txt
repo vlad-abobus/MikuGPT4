@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+g4f==0.5.7.5
+langdetect==1.0.9
+Pillow==11.3.0
